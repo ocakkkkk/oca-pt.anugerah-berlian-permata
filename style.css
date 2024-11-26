@@ -1,0 +1,17 @@
+.card{
+	margin: 35px;
+}
+
+.zoom-hover:hover {
+	transform: scale(1.5);
+}
+
+@media (max-width: 576px){
+	a.navbar-brand {
+		display: none;
+	}
+
+}
+
+
+
